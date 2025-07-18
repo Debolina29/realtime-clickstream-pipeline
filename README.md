@@ -3,7 +3,7 @@ AWS Real-Time Streaming Project using Kinesis, Lambda, DynamoDB
 
 # Real-Time Clickstream Analytics Pipeline (AWS)
 
-## 🚀 Project Overview
+## Project Overview
 This project demonstrates a real-time data engineering pipeline using AWS.
 
 **Architecture:**
@@ -12,17 +12,16 @@ This project demonstrates a real-time data engineering pipeline using AWS.
 - Processed using **AWS Lambda**
 - Stored in **Amazon DynamoDB**
 
-## 🛠️ Technologies Used
+## Technologies Used
 - AWS Kinesis
 - AWS Lambda (Python 3.13)
 - DynamoDB
 - Python (Boto3)
 - CloudWatch
 
-## 📁 Project Structure
+## Project Structure
 - `simulate_clickstream.py` - Script to simulate clickstream events
 - `lambda_function.py` - Lambda function to process stream and write to DynamoDB
 
-## ✨ Author
-Your Name | [LinkedIn](https://linkedin.com/in/yourname)
-
+## Author
+Debolina Dhara | https://www.linkedin.com/in/debolina-dhara-62a4901aa/
